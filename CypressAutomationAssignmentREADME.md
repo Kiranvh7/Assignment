@@ -1,6 +1,5 @@
 # Assignment
-Steps to execute:
-NPM Modules Installation - npm install
-Cypress - npm init
+Steps to execute: 1.NPM Modules Installation: npm install
+2. Cypress: npm init
 npm install cypress --save-dev
-To run the spec file - npx cypress open
+3. To run the spec file: npx cypress open
